@@ -1,0 +1,4 @@
+[[rules]]
+id = "test-secret"
+description = "Secret used only to test the quality gate"
+regex = '''TEST_SECRET_[A-Za-z0-9]{12}'''
